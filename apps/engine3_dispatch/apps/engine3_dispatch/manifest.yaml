@@ -1,0 +1,10 @@
+id: engine3-dispatch
+name: Engine Dispatch
+summary: Private dispatch alerts
+desc: >
+  A configurable dispatch display for Tidbyt. Connect your own private
+  dispatch feed to show active calls, including call category, town,
+  address, and description. Returns to a clock when no call is active.
+author: Engine 3
+fileName: main.star
+packageName: engine3_dispatch
